@@ -9,4 +9,8 @@ nav li > a{
 footer > p {
     margin-top: 30px;
     text-align: center;
+    text-decoration: none;
+}
+p{
+    /* text-decoration: none; */
 }
